@@ -12,9 +12,7 @@
   * Ajout
     * liste privée / partagée / publique
     * adresse postale
-    
   * Modification
-  
   * Suppression
   
 * Gestion d'item
@@ -25,8 +23,13 @@
     * via code-barre
     * manuellement
     
+    * titre et/ou image
+    * description
+    * prix
+    * quantité souhaitée
+    * statut
+    
   * Modification
-  
   * Suppression
   
 * Gestion de contact
