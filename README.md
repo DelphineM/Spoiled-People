@@ -10,29 +10,14 @@ Mon unique souhait est que cette application existe pour répondre à mon besoin
 
 L'idée de le créer communautairement et via GitHub vient d'une conversation sur Twitter et en particulier d'[une suggestion de L_Demontiers](https://twitter.com/L_Demontiers/status/395076897429676032).
 
+J'aurais donc en particulier besoin d'aide sur la partie technique mais pas seulement. Il y a aussi les aspects opérationnels et juridiques sur lesquels je veux faire les choses bien et risque d'aller à tâtons.
+
+-- 
+Delphine M.
+
 ##Description
 
 SpoiledPeople permet de gérer des listes de cadeaux, pour soi ou pour les autres.
 SpoildePeople est géré via une application, un site web et un bookmarklet.
 
-### Description de l'application
-
-L'application permet de gérer les listes.
-
-L'application permet d'ajouter un item via :
-* une URL
-* une photo
-* un code-barre
-* une description manuelle
-
-### Description du site web
-
-L'application permet de gérer les listes.
-
-L'application permet d'ajouter un item via :
-* une URL
-* une description manuelle
-
-### Description du bookmarklet
-
-Le bookmarklet permet d'ajouter un item via une URL.
+[Détail des fonctionnalités](https://github.com/DelphineM/SpoiledPeople/blob/master/Conception/liste-des-fonctionnalites.md)
