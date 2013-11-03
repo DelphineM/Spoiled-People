@@ -1,6 +1,8 @@
 SpoiledPeople
 =============
 
+![Proposition de logo](http://nissone.com/SpoiledPeople/logo001.jpg)
+
 [Benchmrark]: https://docs.google.com/spreadsheet/ccc?key=0AmBnkP3szp3MdEZWT0RZaWRtZnNuekhaWl9ZTjhXaHc&usp=sharing
 [une suggestion de L_Demontiers]: https://twitter.com/L_Demontiers/status/395076897429676032
 [Détail des fonctionnalités]: https://github.com/DelphineM/SpoiledPeople/blob/master/Conception/liste-des-fonctionnalites.md
