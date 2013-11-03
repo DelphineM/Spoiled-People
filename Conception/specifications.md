@@ -1,8 +1,8 @@
 # Spécification fonctionnelles et techniques
 
-- [Les bonnes pratiques du web]: https://checklists.opquast.com/fr/oqs-v2
-- [First Step]: https://checklists.opquast.com/fr/accessibility-first-step
-- [Second Step]: http://checklists.opquast.com/fr/accessibility-second-step
+[Les bonnes pratiques du web]: https://checklists.opquast.com/fr/oqs-v2
+[First Step]: https://checklists.opquast.com/fr/accessibility-first-step
+[Second Step]: http://checklists.opquast.com/fr/accessibility-second-step
 
 ## Sommaire
 
