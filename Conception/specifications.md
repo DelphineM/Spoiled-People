@@ -2,27 +2,27 @@
 
 ## Sommaire
 
-- Généralités [Généralités]:
-	- Vie privée [Vie privée]:
-	- Transparence [Transparence]:
-- Fonctionnalités [Fonctionnalités]:
-	- Le compte [Le compte]:
-	- La liste [La liste]:
-	- L'item [L'item]:
-	- Le contact [Le contact]:
+- [Généralités](#génératlités)
+	- [Vie privée](#vieprivée)
+	- [Transparence](#transparence)
+- [Fonctionnalités](#fonctionnalités)
+	- [Le compte](#lecompte)
+	- [La liste](#laliste)
+	- [L'item](#litem)
+	- [Le contact](#lecontact)
 	
-## [Généralités][]
+## Généralités
 
-### [Vie privée][]
+### Vie privée
 
-### [Transparence][]
+### Transparence
 
-## [Fonctionnalités][]
+## Fonctionnalités
 
-### [Le compte][]
+### Le compte
 
-### [La liste][]
+### La liste
 
-### [L'item][]
+### L'item
 
-### [Le contact][]
+### Le contact
