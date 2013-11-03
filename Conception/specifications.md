@@ -1,5 +1,9 @@
 # Spécification fonctionnelles et techniques
 
+- [Les bonnes pratiques du web]: https://checklists.opquast.com/fr/oqs-v2
+- [First Step]: https://checklists.opquast.com/fr/accessibility-first-step
+- [Second Step]: http://checklists.opquast.com/fr/accessibility-second-step
+
 ## Sommaire
 
 - [Généralités](#généralités)
@@ -21,7 +25,11 @@ Toutes les données de l'utilisateur peuvent être modifiées ou supprimées à 
 
 Une section "À propos" lie l'application, le site et le bookmarklet à sa conception open source.
 
-Le site fait l'objet d'une déclaration publique Opquast référencée depuis la section "À propos".
+Le site fait l'objet d'une déclaration publique Opquast référencée depuis la section "À propos" sur les référentiels suivants :
+- [Les bonnes pratiques du web][]
+- [First Step][] (Premier pas vers WCAG 2.0 : erreurs)
+- [Second Step][] (Second pas vers WCAG 2.0 : risques)
+
 
 ## Fonctionnalités
 
