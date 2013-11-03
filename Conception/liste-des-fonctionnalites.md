@@ -1,35 +1,45 @@
 # Liste des fonctionnalités attendues
 
-* Gestion de compte
+- Gestion de compte
 
-  * Création
-    * compte privé / partagé / public
-  * Modification
-  * Suppression
-
-* Gestion de liste
-
-  * Ajout
-    * liste privée / partagée / publique
-    * adresse postale
-  * Modification
-  * Suppression
+  - Création
+  - Modification
+  - Suppression
   
-* Gestion d'item
+  - compte privé / partagé / public
+  - adresse(s) postale(s)
 
-  * Ajout
-    * via photo
-    * via URL
-    * via code-barre
-    * manuellement
-    
-    * titre et/ou image
-    * description
-    * prix
-    * quantité souhaitée
-    * statut
-    
-  * Modification
-  * Suppression
+- Gestion de liste
+
+  - Ajout
+  - Modification
+  - Suppression
+
+	- nom
+	- visibilité (privée / partagée / publique)
+	- date de l'événement
+	- adresse liée
   
-* Gestion de contact
+- Gestion d'item
+
+  - Ajout
+    - via galerie mobile
+    - via appareil photo mobile
+    - via image téléchargée
+    - via URL
+    - via code-barre
+    - via bookmarklet
+    - manuellement
+    
+    - titre et/ou image
+    - description
+    - prix
+    - quantité souhaitée
+    - statut
+    
+  - Modification
+  - Suppression
+  
+- Gestion de contact
+
+- Gestion des notifications
