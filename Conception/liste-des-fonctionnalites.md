@@ -2,23 +2,33 @@
 
 - Gestion de compte
 
-  - Création
+	- Création
   - Modification
   - Suppression
 
- 
-  - compte privé / partagé / public
+	Un compte =
+	- identifiant / mot de passe
   - adresse(s) postale(s)
+  - paramètres
+		- visibilié par défaut
+		- adresse par défaut
+		- notifications
+			- notification par défaut
+			- notifications à propos de SpoiledPeople
 
 - Gestion de liste
 
   - Ajout
   - Modification
   - Suppression
+  
+	Une liste =
 	- nom
 	- visibilité (privée / partagée / publique)
 	- date de l'événement
 	- adresse liée
+	- notification
+	- un ou des contacts attachés
   
 - Gestion d'item
 
@@ -30,17 +40,14 @@
     - via code-barre
     - via bookmarklet
     - manuellement
-
-   
-    - titre et/ou image
-    - description
-    - prix
-    - quantité souhaitée
-    - statut
-    
   - Modification
   - Suppression
+
+	Un item =
+	 - titre et/ou image
+	 - description
+	 - prix
+	 - quantité souhaitée
+	 - statut
   
 - Gestion de contact
-
-- Gestion des notifications
