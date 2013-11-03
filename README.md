@@ -19,7 +19,7 @@ Mon unique souhait est que cette application existe pour pouvoir l'utiliser. Je 
 
 -- Delphine M.
 
-L'idée de le créer communautairement et via GitHub vient d'une conversation sur Twitter et en particulier d'[une suggestion de L_Demontiers][]).
+L'idée de le créer via GitHub vient d'une conversation sur Twitter et en particulier d'[une suggestion de L_Demontiers][]).
 
 ##Description
 
