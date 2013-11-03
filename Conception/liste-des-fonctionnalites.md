@@ -5,7 +5,8 @@
   - Création
   - Modification
   - Suppression
-  
+
+ 
   - compte privé / partagé / public
   - adresse(s) postale(s)
 
@@ -14,7 +15,6 @@
   - Ajout
   - Modification
   - Suppression
-
 	- nom
 	- visibilité (privée / partagée / publique)
 	- date de l'événement
@@ -30,7 +30,8 @@
     - via code-barre
     - via bookmarklet
     - manuellement
-    
+
+   
     - titre et/ou image
     - description
     - prix
