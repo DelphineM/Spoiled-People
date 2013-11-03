@@ -63,8 +63,8 @@ L'ensemble des données du compte sont exportables dans un format ouvert et cour
 ###### Suppression du compte
 
 Le compte peut-être supprimé à la demande de l'utilisateur.
-Un avertissement et une demande de confirmation sont affichés avant de validé l'opération.
-Toutes les informations du compte sont supprimées de la base de données.
+Un avertissement et une demande de confirmation sont affichés avant de valider l'opération.
+En cas de suppression de compte, toutes les informations du compte sont supprimées de la base de données.
 
 ### L'item
 
@@ -88,6 +88,7 @@ L'ajout peut se faire :
 - manuellement
 
 Quel que soit le mode d'ajout, la totalités des informations sont accessibles et modifiables manuellement.
+Quel que soit le mode d'ajout, l'enregistrement de l'item est soumis à un bouton de validation que l'utilisateur doit activer.
 
 Les Données attendues sont :
 - Données obligatoires :
@@ -104,6 +105,13 @@ Les Données attendues sont :
 ##### Ajout via une image téléchargée depuis le navigateur
 
 ##### Ajout via URL copiée-collée
+
+L'élément <title> de la page de destination est récupéré et placé par défaut dans le champ de titre de l'item.
+
+L'élément <meta description> de la page de destination est récupéré et placé par défaut dans le champ de description de l'item.
+
+L'ensemble des images sont récupérées et proposées à l'utilisateur pour le champ image de l'item.
+Par défaut, c'est la première image trouvée qui est retenue. L'utilisateur peut choisir de ne retenir aucune image.
 
 ##### Ajout via le scan d'un code-barre
 
