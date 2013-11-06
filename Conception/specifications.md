@@ -98,7 +98,7 @@ L'ajout peut se faire :
 Quel que soit le mode d'ajout, la totalités des informations sont accessibles et modifiables manuellement.
 Quel que soit le mode d'ajout, l'enregistrement de l'item est soumis à un bouton de validation que l'utilisateur doit activer.
 
-Les Données attendues sont :
+Les données attendues sont :
 - Données obligatoires :
 	- titre et/ou image
 - Données facultatives :
@@ -108,7 +108,15 @@ Les Données attendues sont :
 
 ##### Ajout via la galerie du mobile
 
+Permet d'aller choisir dans les photos de la galerie du mobile.
+
 ##### Ajout via l'appareil photo du mobile
+
+Ouvre l'application appareil photo du mobile.
+Une fois la photo prise, elle est affichée avec une confirmation d'utiliser cette photo. 
+Un autre choix est possible : prendre une aute photo.
+
+Tout du long, on peut annuler via la navigation native du terminal.
 
 ##### Ajout via une image téléchargée depuis le navigateur
 
