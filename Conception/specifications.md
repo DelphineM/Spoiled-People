@@ -1,4 +1,6 @@
-# Spécification fonctionnelles et techniques
+# Spécifications fonctionnelles et techniques
+
+STATUT : EN COURS
 
 [Les bonnes pratiques du web]: https://checklists.opquast.com/fr/oqs-v2
 [First Step]: https://checklists.opquast.com/fr/accessibility-first-step
@@ -59,10 +61,10 @@ Un compte =
 	- paramètres
 		- visibilié par défaut
 		- adresse par défaut
+		- devise par défaut
 		- notifications
 		- notification par défaut
 		- notifications à propos de SpoiledPeople
-
 
 ###### Export des données du compte
 
@@ -103,7 +105,7 @@ Les données attendues sont :
 	- titre et/ou image
 - Données facultatives :
 	- description
-	- prix
+	- prix et devise
 	- quantité
 
 ##### Ajout via la galerie du mobile
@@ -124,7 +126,7 @@ Tout du long, on peut annuler via la navigation native du terminal.
 
 L'élément \<title\> de la page de destination est récupéré et placé par défaut dans le champ de titre de l'item.
 
-L'élément \<meta description>\ de la page de destination est récupéré et placé par défaut dans le champ de description de l'item.
+L'élément \<meta description\> de la page de destination est récupéré et placé par défaut dans le champ de description de l'item.
 
 L'ensemble des images sont récupérées et proposées à l'utilisateur pour le champ image de l'item.
 Par défaut, c'est la première image trouvée qui est retenue. L'utilisateur peut choisir de ne retenir aucune image.
@@ -134,6 +136,35 @@ Par défaut, c'est la première image trouvée qui est retenue. L'utilisateur pe
 ##### Ajout via le bookmarklet
 
 ##### Ajout manuel
+
+Un item peut-être rajouter via une édition manuelle depuis l'application ou depuis le site web.
+
+#### Formulaire d'un item (ajout ou édition)
+
+##### Titre 
+
+Le titre est obligatoire si l'image n'est pas renseignée.
+
+##### Image
+
+L'image est obligatoire si le titre n'est pas renseigné.
+
+##### Description
+
+La description est facultative.
+
+##### Prix
+
+Le prix est facultatif.
+
+##### Devise.
+
+La devise est affichée par défaut avec la valeur indiquée dans les paramètres du compte.
+Elle peut être modifiée lors du remplissage du formulaire.
+
+##### Quantité
+
+La quantité est facultative.
 
 ### La liste
 
@@ -148,6 +179,5 @@ Les données attendues :
 	- adresse liée
 	- notification
 	- un ou des contacts attachés
-
 
 ### Le contact
