@@ -51,3 +51,6 @@ Un item =
 - statut
   
 ## Gestion de contact
+
+- Ajout d'une nouvelle relation
+- Suppression d'une relation
