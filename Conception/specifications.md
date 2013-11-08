@@ -47,7 +47,13 @@ La création du compte nécessite :
 - un identifiant (pseudonyme ou e-mail)
 - un mot de passe
 
+La création de compte passe par un mail de confirmation.
+
 #### Gestion du compte
+
+##### Connexion au compte
+
+La connexion au compte propose un processus de renouvellement de mot de passe via envoi de mail.
 
 Toutes les informations du compte à l'exception de l'identifiant peuvent être changés autant de fois que l'utilisateur le souhaite.
 
