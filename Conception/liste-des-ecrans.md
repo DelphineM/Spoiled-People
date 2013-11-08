@@ -1,6 +1,6 @@
 # Liste exaustive des écrans
 
-34 écrans à concevoir – interface et éditorial – (dont 2 e-mails)
+38 écrans à concevoir – interface et éditorial – (dont 2 e-mails)
 
 - Écran principal (version non-connecté)
 	- Connexion 
@@ -36,3 +36,7 @@
 	- À propos
 - Écran du bookmarklet
 	- Confirmation
+- Affichage d'une liste (version non-connecté)
+- Affichage d'une liste (version connecté)
+- Affichage d'un profil (version non-connecté)
+- Affichage d'un profil (version connecté)
