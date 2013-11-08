@@ -1,5 +1,7 @@
 # Liste exaustive des écrans
 
+26 écrans à concevoir – interface et éditorial – (dont 2 e-mails)
+
 - Écran principal (version non-connecté)
 	- Connexion 
 		- Mot de passe oublié
