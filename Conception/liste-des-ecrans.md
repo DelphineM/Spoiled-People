@@ -1,6 +1,6 @@
 # Liste exaustive des écrans
 
-26 écrans à concevoir – interface et éditorial – (dont 2 e-mails)
+34 écrans à concevoir – interface et éditorial – (dont 2 e-mails)
 
 - Écran principal (version non-connecté)
 	- Connexion 
@@ -14,6 +14,12 @@
 - Écran principal (version connecté)
 	- Déconnexion
 	- Ajout / Modification item
+		- via galerie mobile
+		- via appareil photo mobile
+		- via image téléchargée
+		- via URL
+		- via code-barre
+		- manuellement
 		- Confirmation
 	- Confirmation suppression item
 	- Gestion des listes
@@ -28,4 +34,5 @@
 		- Confirmation suppression compte
 	- Mentions légales
 	- À propos
-	
+- Écran du bookmarklet
+	- Confirmation
