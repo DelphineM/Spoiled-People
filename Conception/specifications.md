@@ -6,6 +6,8 @@ STATUT : EN COURS
 [First Step]: https://checklists.opquast.com/fr/accessibility-first-step
 [Second Step]: http://checklists.opquast.com/fr/accessibility-second-step
 
+[Liste des fonctionnalités attendues > Gestion de contact]: https://github.com/DelphineM/Spoiled-People/blob/master/Conception/liste-des-fonctionnalites.md#gestion-de-contact
+
 ## Sommaire
 
 - [Généralités](#généralités)
@@ -32,7 +34,6 @@ Le site fait l'objet d'une déclaration publique Opquast référencée depuis la
 - [First Step][] (Premier pas vers WCAG 2.0 : erreurs)
 - [Second Step][] (Second pas vers WCAG 2.0 : risques)
 
-
 ## Fonctionnalités
 
 ### Le compte
@@ -44,7 +45,7 @@ La création du compte peut se faire :
 - depuis le site web
 
 La création du compte nécessite :
-- un identifiant (pseudonyme ou e-mail)
+- un identifiant (e-mail)
 - un mot de passe
 
 La création de compte passe par un mail de confirmation.
@@ -53,9 +54,9 @@ La création de compte passe par un mail de confirmation.
 
 ##### Connexion au compte
 
-La connexion au compte propose un processus de renouvellement de mot de passe via envoi de mail.
+La connexion au compte propose un processus de renouvellement de mot de passe via envoi d'e-mail.
 
-Toutes les informations du compte à l'exception de l'identifiant peuvent être changés autant de fois que l'utilisateur le souhaite.
+Toutes les informations du compte à l'exception de l'identifiant peuvent être changés et ce autant de fois que l'utilisateur le souhaite.
 
 ##### Gestion des données du compte
 
@@ -63,14 +64,33 @@ Un compte =
 - Données obligatoires
 	- identifiant / mot de passe
 - Données facultatives
-	- adresse(s) postale(s)
+	- pseudonyme
+	- prénom
+	- nom
 	- paramètres
-		- visibilié par défaut
-		- adresse par défaut
+		- visibilité par défaut
 		- devise par défaut
 		- notifications
 		- notification par défaut
 		- notifications à propos de SpoiledPeople
+
+IDENTIFIANT
+Par souci d'économie de données demandées, l'identifiant est l'e-mail du compte. Il est indispensable en cas d'oubli de mot de passe.
+
+MOT DE PASSE
+NB : Ne pas compliquer inutilement les règles de formatage du mot de passe.
+
+VISIBILITÉ PAR DÉFAUT
+Indique si une nouvelle liste doit être par défaut publique, partagée ou privée.
+
+- Publique : La liste est accessibile via son URL, sans contrôle.
+- Partagée : La liste n'est accessible qu'aux personnes autorisées :
+	- parce qu'elles sont connectées à Spoiled People et que leur compte a été mis en relation avec la liste (voir [Liste des fonctionnalités attendues > Gestion de contact][])
+	- à défaut, parce qu'elles ont indiqué le mot de passe qui leur a été communiqué.
+- Privée : Seul le propriétaire du compte peut la voir.
+
+DEVISE PAR DÉFAUT
+Devise qui sera affichée par défaut dans le formulaire d'ajout d'item.
 
 ###### Export des données du compte
 
@@ -113,6 +133,7 @@ Les données attendues sont :
 	- description
 	- prix et devise
 	- quantité
+	- mot de passe (obligatoire pour autoriser la visiualisation d'une liste partagée à une personne non connectée à Spoiled People)
 
 ##### Ajout via la galerie du mobile
 
