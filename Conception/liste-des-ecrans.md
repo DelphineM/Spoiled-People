@@ -1,7 +1,7 @@
-[zone de connexion]: (#Connexion)
-[ajout d'un item]: (#Ajout--Modification-item)
-[modification d'un item]: (#Ajout--Modification-item)
-[suppression d'un item]: (#Confirmation-suppression-item)
+[zone de connexion]: (#connexion)
+[ajout d'un item]: (#ajout--modification-item)
+[modification d'un item]: (#ajout--modification-item)
+[suppression d'un item]: (#confirmation-suppression-item)
 
 STATUT : EN COURS :
 - Liste exhautive des écrans : OK
