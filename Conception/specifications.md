@@ -72,7 +72,7 @@ Un compte =
 		- devise par défaut
 		- notifications
 		- notification par défaut
-		- notifications à propos de SpoiledPeople
+		- notifications à propos de Spoiled People
 
 IDENTIFIANT
 Par souci d'économie de données demandées, l'identifiant est l'e-mail du compte. Il est indispensable en cas d'oubli de mot de passe.
@@ -91,6 +91,15 @@ Indique si une nouvelle liste doit être par défaut publique, partagée ou priv
 
 DEVISE PAR DÉFAUT
 Devise qui sera affichée par défaut dans le formulaire d'ajout d'item.
+
+NOTIFICATIONS 
+Permettent de recevoir une alerte par mail quand un contact agit sur une des listes du compte.
+
+NOTIFICATIONS PAR DÉFAUT
+Permet de choisir par défaut le paramétrage des notifications sur une nouvelle liste.
+
+NOTIFICATIONS À PROPOS DE SPOILED PEOPLE
+Permet de recevoir des alertes à propos de Spoiled People.
 
 ###### Export des données du compte
 
