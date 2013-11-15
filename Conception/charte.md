@@ -1,3 +1,7 @@
+____
+OBSOLÈTE : voir l'[organisation dédiée](https://github.com/Spoiled-People/)
+___
+
 #Éléments de charte
 
 Le but est de chercher la simplicité d'exécution.
