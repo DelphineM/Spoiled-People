@@ -1,3 +1,7 @@
+____
+OBSOLÈTE : voir l'[organisation dédiée](https://github.com/Spoiled-People/)
+___
+
 #Typographies utilisées
 
 [Salsa]: http://www.google.com/fonts/specimen/Salsa
