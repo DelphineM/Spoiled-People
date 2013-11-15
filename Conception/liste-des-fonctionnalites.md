@@ -1,3 +1,7 @@
+____
+OBSOLÈTE : voir l'[organisation dédiée](https://github.com/Spoiled-People/)
+___
+
 # Liste des fonctionnalités attendues
 
 ## Gestion de compte
