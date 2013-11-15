@@ -1,5 +1,5 @@
 ____
-OBSOLETE : voir l'organisation dédiée et, en particulier pour ce fichier : [Spécifications fonctionnelles et techniques](https://github.com/Spoiled-People/design/blob/master/functionnal-conception/specifications.md)
+OBSOLÈTE : voir l'organisation dédiée et, en particulier pour ce fichier : [Spécifications fonctionnelles et techniques](https://github.com/Spoiled-People/design/blob/master/functionnal-conception/specifications.md)
 ___
 
 # Spécifications fonctionnelles et techniques
