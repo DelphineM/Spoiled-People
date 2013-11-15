@@ -1,3 +1,7 @@
+____
+OBSOLÈTE : voir l'[organisation dédiée](https://github.com/Spoiled-People/)
+___
+
 [zone de connexion]: (#connexion)
 [ajout d'un item]: (#ajout--modification-item)
 [modification d'un item]: (#ajout--modification-item)
